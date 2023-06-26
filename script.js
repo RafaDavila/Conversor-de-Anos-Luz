@@ -1,4 +1,4 @@
-let distanceInLY = prompt("Digite a distãncia em anos-luz")
+let distanceInLY = prompt("Digite a distância em anos-luz")
 
 let chosenOption = prompt("Para qual unidade deseja converter? \n 1. Parse(pc) \n 2. Unidade Astrônomica (AU) \n 3.Quilômetros (km) \n\n (Digite o número da opção desejada.)")
 
